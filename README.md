@@ -48,6 +48,7 @@ J'y ai appris la rigueur, le sens du détail et le travail en équipe sous contr
 | 🦜 **Floppy Perroquet** | Clone de Flappy Bird : boucle de jeu, physique et collisions avec l'API Canvas. | JavaScript · Canvas | [Démo](https://aurored2-star.github.io/floppy-perroquet/) · [Code](https://github.com/aurored2-star/floppy-perroquet) |
 | 📚 **Ma Bibliothèque** | Intégration responsive d'une bibliothèque personnelle sur 5 tailles d'écran. | HTML · CSS · JS | [Démo](https://aurored2-star.github.io/ma-bibliotheque/) · [Code](https://github.com/aurored2-star/ma-bibliotheque) |
 | 🎵 **Lecteur de musique** | La même interface intégrée deux fois, en CSS pur et avec Bootstrap. | HTML · CSS · Bootstrap | [Démo](https://aurored2-star.github.io/Lecteur-de-musique/) · [Code](https://github.com/aurored2-star/Lecteur-de-musique) |
+| 🌦️ **Appli météo** | Météo actuelle et prévisions sur 5 jours d'une ville, via l'API OpenWeather. | JavaScript · fetch / async-await · Bootstrap | [Code](https://github.com/aurored2-star/Appli-meteo) |
 
 ### 🌱 En ce moment
 
