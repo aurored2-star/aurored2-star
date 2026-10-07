@@ -52,7 +52,7 @@ J'y ai appris la rigueur, le sens du détail et le travail en équipe sous contr
 ### 🌱 En ce moment
 
 - Je finalise ma certification DWWM (novembre 2026)
-- J'approfondis Angular (signals, composants standalone, SSR)
+- J'approfondis Django REST et Vue.js à travers TRACES, mon projet de certification
 - Je cherche mon premier poste de développeuse front-end ou fullstack
 
 ### 📫 Me contacter
