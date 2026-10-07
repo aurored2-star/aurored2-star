@@ -53,6 +53,9 @@ J'y ai appris la rigueur, le sens du détail et le travail en équipe sous contr
 
 - Je finalise ma certification DWWM (novembre 2026)
 - J'approfondis Django REST et Vue.js à travers TRACES, mon projet de certification
+- Je développe **Delepine**, un site vitrine en Angular pour une boutique de fleurs et de bijoux
+- Je construis mon **portfolio** pour présenter mes projets
+- Je crée **mon propre jeu**, après m'être fait la main sur Floppy Perroquet 🦜
 - Je cherche mon premier poste de développeuse front-end ou fullstack
 
 ### 📫 Me contacter
